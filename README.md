@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @heytom7
+- 👀 I’m interested in backend.
+- 🌱 I’m currently learning JVM and multy-thread.
+- 💞️ I’m looking to collaborate on java program and go forward .
